@@ -89,7 +89,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1200\&color=FFC371\&center=true\&vCenter=true\&width=640\&height=40\&lines=Craft+systems+that+scale.+Ship+code+that+lasts.)](https://git.io/typing-svg)
+
 
 </div>
 
