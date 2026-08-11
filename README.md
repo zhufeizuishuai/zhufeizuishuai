@@ -83,10 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhufeizuishuai&theme=radical" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhufeizuishuai&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="100%" />
-</div>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5F6D,100:FFC371&height=3" />
