@@ -103,10 +103,10 @@
 
 <br/><br/>
 
-<sub>
+<h3>
 When the IDE goes dark, the road lights up. Road cycling keeps me sharp — cadence, climb, recover, repeat.<br/>
 Same mindset as shipping backends: pace yourself, trust the data, chase the next personal best.
-</sub>
+</h3>
 
 <br/><br/>
 
